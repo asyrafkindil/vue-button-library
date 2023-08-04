@@ -1,0 +1,19 @@
+{
+  "name": "vue-button-library",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/asyrafkindil/vue-button-library.git"
+  },
+  "author": "\"Asyraf Kindil\"",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/asyrafkindil/vue-button-library/issues"
+  },
+  "homepage": "https://github.com/asyrafkindil/vue-button-library#readme"
+}
